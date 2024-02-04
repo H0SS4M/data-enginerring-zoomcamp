@@ -1,0 +1,1 @@
+select count(1) from ny_taxi.ny_yellow_data
